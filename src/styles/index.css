@@ -5,9 +5,42 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.bg-1 {
+  background-color: #7289da;
+}
+
+.bg-2 {
+  background-color: #ffffff;
+}
+
+.bg-3 {
+  background-color: #99aab5;
+}
+
+.bg-4 {
+  background-color: #2c2f33;
+}
+
+.bg-5 {
+  background-color: #23272a;
+}
+
+.btn-hover:hover {
+  background-color: #637cce;
+}
+
+#intro {
+  margin-top: 20vh;
 }
