@@ -5,6 +5,7 @@ import { BrowserRouter, Route } from 'react-router-dom'
 import App from './components/App'
 import HomePage from './pages/Home'
 import reportWebVitals from './reportWebVitals'
+import './styles/tailwind-build.css'
 
 ReactDOM.render(
   <React.StrictMode>
