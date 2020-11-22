@@ -38,4 +38,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           source: './build'
-          target: 'admin.iduslab.xyz'
+          target: 'iduslab.xyz'
