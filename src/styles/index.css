@@ -44,3 +44,7 @@ code {
 #intro {
   margin-top: 20vh;
 }
+
+.setupForm {
+  transition: max-height 0.3s ease;
+}
